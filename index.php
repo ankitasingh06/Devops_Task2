@@ -1,10 +1,10 @@
 <body bgcolor='aqua'>
+ <h1>
 <pre>
 <?php
 
 print ('Hello World');
-print('\n');
-print('Welcome to php webpage');
 
+<h1>
 ?>
 </pre>
