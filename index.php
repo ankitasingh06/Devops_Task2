@@ -1,8 +1,10 @@
+<body bgcolor=''aqua'>
 <pre>
 <?php
 
 print ('Hello World');
-print('How are you ?');
+print('\n');
+print('Welcome to php webpage');
 
 ?>
 </pre>
