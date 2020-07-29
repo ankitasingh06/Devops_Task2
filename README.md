@@ -1,4 +1,4 @@
-# Dnnxzcevops_Task2
+# Launching Website on the top of Docker
 
 Project Aim:-
 1.Create Docker file which will install jenkins.
@@ -17,3 +17,5 @@ Project Aim:-
 
 8. job5 for monitor : If container where app is running. fails due to any reason then this job should automatically start the container again.
 
+Complete Solution :-
+ Please refer to my LinkedIn Article :- https://www.linkedin.com/pulse/task-2-automation-using-docker-filejenkinsgithub-ankita-singh/
